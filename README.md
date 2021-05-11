@@ -31,3 +31,5 @@
 |File           |  Part1    |  Part2    | Part3     | Part4    | Part5     |
 |---------------|-----------|-----------|-----------|----------|-----------|
 | radCASE_5.1.0 | [Part1](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z01 "Part1") | [Part2](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z02 "Part2") | [Part3](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z03  "Part3") | [Part4](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z04 "Part4") | [Part5](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.zip "Part5") |
+
+Download all 5 Parts and extract File "radCASE_5.1.0r_hwo_Setup.zip". 
