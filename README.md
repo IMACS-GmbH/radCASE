@@ -25,3 +25,9 @@
 | Microsoft Visual Studio 2017 Express Web Installer    | [EXE](https://github.com/IMACS-GmbH/radCASE/raw/main/Third%20Party/Microsoft%20Visual%20Studio%202017%20Express%20Web%20Installer.exe "EXE")             |               |
 | Sentinel LDK Dongle Driver                            | [ZIP](https://github.com/IMACS-GmbH/radCASE/raw/main/Third%20Party/Sentinel%20LDK%20Dongle%20Driver.zip "ZIP")                                                                                                                                   |               |
 ------------------------
+
+### [Trial Version](https://github.com/IMACS-GmbH/radCASE/tree/main/Trial%20Version "Trial Version")
+
+|File           |  Part1    |  Part2    | Part3     | Part4    | Part5     |
+|---------------|-----------|-----------|-----------|----------|-----------|
+| radCASE_5.1.0 | [Part1](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z01 "Part1") | [Part2](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z02 "Part2") | [Part3](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z03  "Part3") | [Part4](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z04 "Part4") | [Part5](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.zip "Part5") |
