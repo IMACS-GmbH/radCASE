@@ -14,7 +14,7 @@
 | QuickStartGuide     | [PDF](https://github.com/IMACS-GmbH/radCASE/raw/main/Documentation/QuickStartGuide.pdf "PDF")     |               |
 | Reference_Manual    | [PDF](https://github.com/IMACS-GmbH/radCASE/raw/main/Documentation/Reference_Manual.pdf "PDF")    |               |
 | Tutorial            | [PDF](https://github.com/IMACS-GmbH/radCASE/raw/main/Documentation/Tutorial.pdf "PDF")            |               |
-| radCASE-Changelog   | [PDF](https://github.com/IMACS-GmbH/radCASE/blob/main/Documentation/radCASE-Changelog.pdf "PDF")  |               |
+| radCASE-Changelog   | [PDF](https://github.com/IMACS-GmbH/radCASE/raw/main/Documentation/radCASE-Changelog.pdf "PDF")  |               |
 ------------------------
 
 ### [Third Party](https://github.com/IMACS-GmbH/radCASE/tree/main/Third%20Party "Third Party")
@@ -26,10 +26,10 @@
 | Sentinel LDK Dongle Driver                            | [ZIP](https://github.com/IMACS-GmbH/radCASE/raw/main/Third%20Party/Sentinel%20LDK%20Dongle%20Driver.zip "ZIP")                                                                                                                                   |               |
 ------------------------
 
-### [Trial Version](https://github.com/IMACS-GmbH/radCASE/tree/main/Trial%20Version "Trial Version")
+### [Trial Version](https://github.com/IMACS-GmbH/radCASE/tree/main/Installer "Trial Version")
 
-|File           |  Part1    |  Part2    | Part3     | Part4    | Part5     |
-|---------------|-----------|-----------|-----------|----------|-----------|
-| radCASE_5.1.0 | [Part1](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z01 "Part1") | [Part2](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z02 "Part2") | [Part3](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z03  "Part3") | [Part4](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.z04 "Part4") | [Part5](https://github.com/IMACS-GmbH/radCASE/raw/main/Trial%20Version/radCASE_5.1.0r_hwo_Setup.zip "Part5") |
+|File           |  Part1    |  Part2    | Part3     | Part4    |
+|---------------|-----------|-----------|-----------|----------|
+| radCASE_5.1.0 | [Part1](https://github.com/IMACS-GmbH/radCASE/raw/main/Installer/radCASE_5.1.0r_hwo_Setup.part1.rar "Part1") | [Part2](https://github.com/IMACS-GmbH/radCASE/raw/main/Installer/radCASE_5.1.0r_hwo_Setup.part2.rar "Part2") | [Part3](https://github.com/IMACS-GmbH/radCASE/raw/main/Installer/radCASE_5.1.0r_hwo_Setup.part3.rar  "Part3") | [Part4](https://github.com/IMACS-GmbH/radCASE/raw/main/Installer/radCASE_5.1.0r_hwo_Setup.part4.rar "Part4") |
 
-Download all 5 Parts and extract File "radCASE_5.1.0r_hwo_Setup.zip". 
+Download all 4 Parts and extract File "radCASE_5.1.0r_hwo_Setup.zip". 
